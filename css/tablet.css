@@ -1,0 +1,110 @@
+@media (max-width: 767px){
+  /*header*/
+  .menu_link{
+    line-height: 12px;
+    font-size: 14px;
+  }
+
+  .header_logo{
+    max-width: 70px;
+  }
+
+  /*hero*/
+
+  .hero_block{
+    background-image: url(/img/background_hero2.png);
+    height: 450px;
+  }
+
+  .hero_text_block{
+    max-width: 700px;
+    max-height: 63px;
+    padding: 5px 20px;
+  }
+
+  .hero_text{
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  /*about*/
+
+  .about_reviews_block{
+    background-image: url(/img/background_about2.png);
+    max-width: 767px;
+    min-height: 850px;
+  }
+
+  .about_block{
+    gap: 10px;
+    align-items: center;
+  }
+
+  .about_img{
+    max-width: 231px;
+    max-height:  374px;
+  }
+
+  .about_title{
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+  .about_text{
+    font-size: 20px;
+    line-height: 24px;
+  }
+
+  .about_text_block{
+    height: 363px;
+  }
+
+  /*reviews*/
+
+  .reviews_box{
+    max-width: 600px;
+    min-height:110px;
+  }
+
+  .reviews_title{
+    font-size: 10px;
+    line-height: 12px;
+
+  }
+
+  .reviews_text{
+    font-size: 15px;
+    line-height: 18px;
+  }
+
+  /*feedback*/
+
+  .feedback_form{
+    min-height: 400px;
+  }
+
+  .feedback_form>input{
+    font-size: 15px;
+    line-height: 18px;
+  }
+
+  .feedback_form>textarea{
+    font-size: 15px;
+    line-height: 18px;
+    min-height: 150px;
+  }
+
+  .feedback_button{
+    font-size: 20px;
+    line-height: 24px;
+    padding: 8px 50px;
+  }
+
+  /*footer*/
+
+  .footer_text{
+    font-size: 24px;
+    line-height: 29px;
+  }
+
+}
