@@ -40,6 +40,10 @@ body{
   color: #FFFFFF;
 }
 
+.burger_menu{
+  display: none;
+}
+
 /*hero*/
 
 .hero_block{
